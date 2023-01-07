@@ -1,0 +1,23 @@
+nav ul {
+    display: flex
+}
+nav li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+a{
+    padding: 10px
+}
+nav li :hover{
+    background-color:azure
+}
+nav ul li a{
+    background-color:green;
+    
+}
+a{
+    justify-content: flex-end;
+}
+    
